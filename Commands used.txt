@@ -1,0 +1,11 @@
+To Run the Script:
+
+bash
+Copy code
+python password_generator.py
+This command executes the Python script named password_generator.py.
+Input Commands (During Script Execution):
+
+After running the script, the user interacts with it through standard input prompts:
+Length of the pass: : Prompts the user to enter the desired length of the password.
+Pass complexity level (1/2/3): : Prompts the user to enter the complexity level of the password (1 for easy, 2 for medium, 3 for hard).
